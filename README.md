@@ -20,26 +20,6 @@ It supports product management, category browsing, a shopping cart, and checkout
 - Servlet API
 - JSTL (if used)
 
-## 📂 Project Structure
-
-Project4_UdayCoShopping/
-├── src/
-│ ├── main/
-│ │ ├── java/
-│ │ │ ├── model/
-│ │ │ │ ├── Product.java
-│ │ │ │ └── ProductAdmin.java
-│ │ │ └── servlet/
-│ │ │ ├── AdminLoginServlet.java
-│ │ │ ├── CartServlet.java
-│ │ │ └── CategoryServlet.java
-│ │ └── webapp/
-│ │ ├── *.jsp (UI Pages)
-│ │ └── WEB-INF/
-│ │ └── web.xml
-├── .classpath, .project (Eclipse project files)
-└── .settings/ (IDE settings)
-
 
 ## 📦 Setup Instructions
 
